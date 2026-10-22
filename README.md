@@ -50,7 +50,3 @@ We welcome contributions! Feel free to fork the repository, submit issues, or cr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us at 148581386+rwxce@users.noreply.github.com.
